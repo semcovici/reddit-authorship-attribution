@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+MaxVonHabsburg,TheGza1,0.7946,0.7386,0.7656,0.747,0.8017,0.7734,0.7713,0.7696,0.7708,0.7696,0.7696,0.7702,0.7694,0.7696,0.7695,0.8498,0.7696,BISimple,embedding_layer

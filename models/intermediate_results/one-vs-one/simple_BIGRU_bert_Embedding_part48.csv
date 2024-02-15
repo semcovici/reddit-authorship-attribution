@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+Supermunch2000,logatwork,0.7804,0.7992,0.7897,0.7863,0.7667,0.7764,0.7833,0.7832,0.7834,0.7832,0.7832,0.7829,0.7831,0.7832,0.783,0.8802,0.7832,BIGRU,bert_Embedding

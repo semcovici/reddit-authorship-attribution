@@ -1,0 +1,286 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,auc_score,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,accuracy,classifier,vectorizer
+9-Cortes,not_9-Cortes,0.1274,0.8394,0.2212,0.9799,0.5771,0.7264,0.8044,0.9215,0.595,0.5537,0.595,0.595,0.7082,0.6918,0.595,0.4738,0.595,MultinomialNB(),None
+AgnaldoTeExplode,not_AgnaldoTeExplode,0.0929,0.8632,0.1678,0.9781,0.4202,0.5878,0.7578,0.9211,0.4487,0.5355,0.4487,0.4487,0.6417,0.5608,0.4487,0.3778,0.4487,MultinomialNB(),None
+BeatoSalut,not_BeatoSalut,0.1527,0.3796,0.2178,0.9498,0.8478,0.8959,0.6768,0.896,0.8162,0.5512,0.8162,0.8162,0.6137,0.8502,0.8162,0.5568,0.8162,MultinomialNB(),None
+BluePirate89,not_BluePirate89,0.2006,0.5547,0.2946,0.9627,0.8388,0.8965,0.7958,0.9109,0.8195,0.5817,0.8195,0.8195,0.6967,0.8556,0.8195,0.5956,0.8195,MultinomialNB(),None
+CariocaSatanico,not_CariocaSatanico,0.1306,0.8032,0.2247,0.9767,0.6069,0.7486,0.7968,0.9188,0.6204,0.5537,0.6204,0.6204,0.7051,0.7127,0.6204,0.4867,0.6204,MultinomialNB(),None
+Manada_2,not_Manada_2,0.2239,0.8395,0.3536,0.9857,0.7916,0.878,0.9108,0.9348,0.7948,0.6048,0.7948,0.7948,0.8155,0.843,0.7948,0.6158,0.7948,MultinomialNB(),None
+MaxVonHabsburg,not_MaxVonHabsburg,0.1251,0.9004,0.2196,0.9874,0.5527,0.7087,0.8555,0.9302,0.5758,0.5562,0.5758,0.5758,0.7266,0.6763,0.5758,0.4642,0.5758,MultinomialNB(),None
+MidnightRider00,not_MidnightRider00,0.1099,0.6471,0.1879,0.9578,0.6047,0.7414,0.6805,0.8983,0.6077,0.5339,0.6077,0.6077,0.6259,0.7026,0.6077,0.4647,0.6077,MultinomialNB(),None
+Miteiro,not_Miteiro,0.1693,0.6398,0.2677,0.969,0.782,0.8655,0.7893,0.9171,0.7728,0.5691,0.7728,0.7728,0.7109,0.8267,0.7728,0.5666,0.7728,MultinomialNB(),None
+Supermunch2000,not_Supermunch2000,0.1463,0.4337,0.2188,0.9513,0.8139,0.8773,0.7278,0.8962,0.7879,0.5488,0.7879,0.7879,0.6238,0.8322,0.7879,0.5481,0.7879,MultinomialNB(),None
+TheGza1,not_TheGza1,0.0965,0.8319,0.1729,0.9761,0.4687,0.6333,0.7478,0.92,0.4919,0.5363,0.4919,0.4919,0.6503,0.6039,0.4919,0.4031,0.4919,MultinomialNB(),None
+logatwork,not_logatwork,0.1302,0.4583,0.2028,0.9534,0.7835,0.8601,0.6984,0.8991,0.762,0.5418,0.762,0.762,0.6209,0.8167,0.762,0.5315,0.762,MultinomialNB(),None
+not_piperman_,piperman_,0.9699,0.643,0.7734,0.1129,0.6951,0.1942,0.7232,0.9174,0.6462,0.5414,0.6462,0.6462,0.669,0.7378,0.6462,0.4838,0.6462,MultinomialNB(),None
+not_um--no,um--no,0.968,0.5443,0.6968,0.1086,0.755,0.1899,0.715,0.9091,0.5587,0.5383,0.5587,0.5587,0.6497,0.6621,0.5587,0.4433,0.5587,MultinomialNB(),None
+not_xanax101010,xanax101010,0.9489,0.8588,0.9016,0.1522,0.3539,0.2129,0.7891,0.8956,0.825,0.5505,0.825,0.825,0.6063,0.8555,0.825,0.5572,0.825,MultinomialNB(),None
+9-Cortes,not_9-Cortes,0.3818,0.6747,0.4877,0.9746,0.9197,0.9464,0.8871,0.934,0.9029,0.6782,0.9029,0.9029,0.7972,0.9149,0.9029,0.717,0.9029,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+AgnaldoTeExplode,not_AgnaldoTeExplode,0.2522,0.6197,0.3585,0.9709,0.8736,0.9197,0.8438,0.9246,0.8572,0.6115,0.8572,0.8572,0.7466,0.8835,0.8572,0.6391,0.8572,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+BeatoSalut,not_BeatoSalut,0.2293,0.6,0.3318,0.9673,0.8543,0.9073,0.8012,0.9175,0.8371,0.5983,0.8371,0.8371,0.7271,0.8685,0.8371,0.6195,0.8371,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+BluePirate89,not_BluePirate89,0.368,0.7449,0.4926,0.9799,0.9067,0.9419,0.9218,0.9383,0.8957,0.674,0.8957,0.8957,0.8258,0.9114,0.8957,0.7173,0.8957,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+CariocaSatanico,not_CariocaSatanico,0.364,0.7791,0.4962,0.9823,0.8999,0.9393,0.9072,0.9399,0.8916,0.6731,0.8916,0.8916,0.8395,0.9089,0.8916,0.7177,0.8916,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+Manada_2,not_Manada_2,0.6444,0.8354,0.7276,0.988,0.967,0.9774,0.9615,0.965,0.9582,0.8162,0.9582,0.9582,0.9012,0.9607,0.9582,0.8525,0.9582,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+MaxVonHabsburg,not_MaxVonHabsburg,0.4178,0.7593,0.539,0.9819,0.9249,0.9525,0.9401,0.9445,0.9139,0.6998,0.9139,0.9139,0.8421,0.9251,0.9139,0.7458,0.9139,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+MidnightRider00,not_MidnightRider00,0.2083,0.6118,0.3108,0.9657,0.8246,0.8896,0.8068,0.9126,0.8096,0.587,0.8096,0.8096,0.7182,0.849,0.8096,0.6002,0.8096,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+Miteiro,not_Miteiro,0.3668,0.6653,0.4729,0.9754,0.9203,0.947,0.9043,0.9359,0.9037,0.6711,0.9037,0.9037,0.7928,0.9162,0.9037,0.71,0.9037,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+Supermunch2000,not_Supermunch2000,0.2727,0.6145,0.3778,0.9688,0.8795,0.922,0.8469,0.9211,0.8613,0.6207,0.8613,0.8613,0.747,0.8847,0.8613,0.6499,0.8613,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+TheGza1,not_TheGza1,0.2595,0.6509,0.371,0.9735,0.8733,0.9207,0.8473,0.9279,0.8591,0.6165,0.8591,0.8591,0.7621,0.8856,0.8591,0.6459,0.8591,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+logatwork,not_logatwork,0.2344,0.6708,0.3474,0.9732,0.8451,0.9046,0.8521,0.9244,0.8336,0.6038,0.8336,0.8336,0.7579,0.8678,0.8336,0.626,0.8336,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+not_piperman_,piperman_,0.9755,0.8397,0.9025,0.2163,0.6771,0.3279,0.8336,0.9289,0.8297,0.5959,0.8297,0.8297,0.7584,0.8673,0.8297,0.6152,0.8297,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+not_um--no,um--no,0.976,0.8529,0.9103,0.2633,0.7149,0.3849,0.8536,0.9272,0.8435,0.6197,0.8435,0.8435,0.7839,0.8743,0.8435,0.6476,0.8435,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+not_xanax101010,xanax101010,0.9831,0.9281,0.9548,0.4365,0.7778,0.5592,0.9394,0.9466,0.918,0.7098,0.918,0.918,0.8529,0.9284,0.918,0.757,0.918,"LogisticRegression(penalty='l1', random_state=42, solver='liblinear')",None
+9-Cortes,not_9-Cortes,0.3617,0.6988,0.4767,0.9762,0.9093,0.9416,0.8955,0.9341,0.8949,0.669,0.8949,0.8949,0.8041,0.9097,0.8949,0.7092,0.8949,"LogisticRegression(random_state=42, solver='liblinear')",None
+AgnaldoTeExplode,not_AgnaldoTeExplode,0.2552,0.6795,0.3711,0.9751,0.8636,0.916,0.8536,0.9288,0.8517,0.6152,0.8517,0.8517,0.7715,0.8809,0.8517,0.6435,0.8517,"LogisticRegression(random_state=42, solver='liblinear')",None
+BeatoSalut,not_BeatoSalut,0.2159,0.6,0.3175,0.9668,0.8425,0.9004,0.8076,0.9162,0.8261,0.5913,0.8261,0.8261,0.7212,0.8611,0.8261,0.6089,0.8261,"LogisticRegression(random_state=42, solver='liblinear')",None
+BluePirate89,not_BluePirate89,0.3645,0.7733,0.4955,0.982,0.9017,0.9401,0.9236,0.94,0.893,0.6733,0.893,0.893,0.8375,0.9099,0.893,0.7178,0.893,"LogisticRegression(random_state=42, solver='liblinear')",None
+CariocaSatanico,not_CariocaSatanico,0.3587,0.7952,0.4944,0.9835,0.8955,0.9374,0.9104,0.9407,0.8886,0.6711,0.8886,0.8886,0.8453,0.907,0.8886,0.7159,0.8886,"LogisticRegression(random_state=42, solver='liblinear')",None
+Manada_2,not_Manada_2,0.6243,0.8683,0.7263,0.9903,0.9626,0.9762,0.9671,0.9658,0.9563,0.8073,0.9563,0.9563,0.9154,0.9595,0.9563,0.8513,0.9563,"LogisticRegression(random_state=42, solver='liblinear')",None
+MaxVonHabsburg,not_MaxVonHabsburg,0.426,0.7884,0.5531,0.984,0.9246,0.9534,0.9424,0.947,0.9155,0.705,0.9155,0.9155,0.8565,0.9268,0.9155,0.7532,0.9155,"LogisticRegression(random_state=42, solver='liblinear')",None
+MidnightRider00,not_MidnightRider00,0.2094,0.6275,0.314,0.9669,0.8213,0.8882,0.8144,0.9138,0.8077,0.5882,0.8077,0.8077,0.7244,0.8479,0.8077,0.6011,0.8077,"LogisticRegression(random_state=42, solver='liblinear')",None
+Miteiro,not_Miteiro,0.3664,0.7034,0.4819,0.978,0.9156,0.9458,0.9125,0.9383,0.9018,0.6722,0.9018,0.9018,0.8095,0.9156,0.9018,0.7138,0.9018,"LogisticRegression(random_state=42, solver='liblinear')",None
+Supermunch2000,not_Supermunch2000,0.2808,0.6586,0.3938,0.9721,0.876,0.9215,0.8584,0.9248,0.8611,0.6265,0.8611,0.8611,0.7673,0.8854,0.8611,0.6577,0.8611,"LogisticRegression(random_state=42, solver='liblinear')",None
+TheGza1,not_TheGza1,0.2623,0.6897,0.38,0.9762,0.8678,0.9188,0.8591,0.9306,0.8564,0.6192,0.8564,0.8564,0.7787,0.8844,0.8564,0.6494,0.8564,"LogisticRegression(random_state=42, solver='liblinear')",None
+logatwork,not_logatwork,0.239,0.6792,0.3536,0.9739,0.8471,0.9061,0.8583,0.9254,0.836,0.6065,0.836,0.836,0.7631,0.8696,0.836,0.6298,0.836,"LogisticRegression(random_state=42, solver='liblinear')",None
+not_piperman_,piperman_,0.9759,0.8321,0.8983,0.2107,0.6861,0.3224,0.8406,0.929,0.8231,0.5933,0.8231,0.8231,0.7591,0.8629,0.8231,0.6104,0.8231,"LogisticRegression(random_state=42, solver='liblinear')",None
+not_um--no,um--no,0.9754,0.8441,0.905,0.2511,0.7108,0.3711,0.854,0.9258,0.8349,0.6132,0.8349,0.8349,0.7775,0.8684,0.8349,0.638,0.8349,"LogisticRegression(random_state=42, solver='liblinear')",None
+not_xanax101010,xanax101010,0.9861,0.9228,0.9534,0.4317,0.8189,0.5653,0.9458,0.9491,0.9158,0.7089,0.9158,0.9158,0.8708,0.9275,0.9158,0.7594,0.9158,"LogisticRegression(random_state=42, solver='liblinear')",None
+9-Cortes,not_9-Cortes,0.356,0.6305,0.4551,0.9712,0.9161,0.9429,0.5,0.9291,0.8966,0.6636,0.8966,0.8966,0.7733,0.9094,0.8966,0.699,0.8966,"LinearSVC(max_iter=10000, random_state=42)",None
+AgnaldoTeExplode,not_AgnaldoTeExplode,0.2465,0.6068,0.3506,0.9699,0.8724,0.9186,0.5,0.9234,0.8553,0.6082,0.8553,0.8553,0.7396,0.882,0.8553,0.6346,0.8553,"LinearSVC(max_iter=10000, random_state=42)",None
+BeatoSalut,not_BeatoSalut,0.2138,0.5551,0.3087,0.9637,0.8525,0.9047,0.5,0.9131,0.8325,0.5887,0.8325,0.8325,0.7038,0.8645,0.8325,0.6067,0.8325,"LinearSVC(max_iter=10000, random_state=42)",None
+BluePirate89,not_BluePirate89,0.3823,0.7166,0.4986,0.9779,0.9156,0.9457,0.5,0.9375,0.9021,0.6801,0.9021,0.9021,0.8161,0.9153,0.9021,0.7222,0.9021,"LinearSVC(max_iter=10000, random_state=42)",None
+CariocaSatanico,not_CariocaSatanico,0.3674,0.7791,0.4994,0.9823,0.9014,0.9401,0.5,0.9402,0.893,0.6749,0.893,0.893,0.8402,0.9099,0.893,0.7197,0.893,"LinearSVC(max_iter=10000, random_state=42)",None
+Manada_2,not_Manada_2,0.6875,0.8148,0.7458,0.9866,0.9735,0.98,0.5,0.9666,0.9629,0.837,0.9629,0.9629,0.8941,0.9643,0.9629,0.8629,0.9629,"LinearSVC(max_iter=10000, random_state=42)",None
+MaxVonHabsburg,not_MaxVonHabsburg,0.4388,0.7137,0.5434,0.9787,0.9352,0.9565,0.5,0.9429,0.9205,0.7087,0.9205,0.9205,0.8244,0.9291,0.9205,0.75,0.9205,"LinearSVC(max_iter=10000, random_state=42)",None
+MidnightRider00,not_MidnightRider00,0.2087,0.6,0.3097,0.9649,0.8284,0.8914,0.5,0.9118,0.8124,0.5868,0.8124,0.8124,0.7142,0.8506,0.8124,0.6006,0.8124,"LinearSVC(max_iter=10000, random_state=42)",None
+Miteiro,not_Miteiro,0.3641,0.6525,0.4674,0.9745,0.9209,0.9469,0.5,0.9348,0.9034,0.6693,0.9034,0.9034,0.7867,0.9158,0.9034,0.7071,0.9034,"LinearSVC(max_iter=10000, random_state=42)",None
+Supermunch2000,not_Supermunch2000,0.2792,0.6145,0.3839,0.9689,0.8833,0.9241,0.5,0.9217,0.8649,0.624,0.8649,0.8649,0.7489,0.8871,0.8649,0.654,0.8649,"LinearSVC(max_iter=10000, random_state=42)",None
+TheGza1,not_TheGza1,0.253,0.6293,0.3609,0.9719,0.8733,0.92,0.5,0.926,0.8578,0.6125,0.8578,0.8578,0.7513,0.8843,0.8578,0.6405,0.8578,"LinearSVC(max_iter=10000, random_state=42)",None
+logatwork,not_logatwork,0.2267,0.65,0.3362,0.9715,0.8433,0.9029,0.5,0.9223,0.8305,0.5991,0.8305,0.8305,0.7466,0.8655,0.8305,0.6195,0.8305,"LinearSVC(max_iter=10000, random_state=42)",None
+not_piperman_,piperman_,0.9729,0.8426,0.9031,0.2103,0.6413,0.3167,0.5,0.9261,0.8303,0.5916,0.8303,0.8303,0.7419,0.8671,0.8303,0.6099,0.8303,"LinearSVC(max_iter=10000, random_state=42)",None
+not_um--no,um--no,0.974,0.8532,0.9096,0.2571,0.6908,0.3747,0.5,0.9249,0.8421,0.6156,0.8421,0.8421,0.772,0.873,0.8421,0.6422,0.8421,"LinearSVC(max_iter=10000, random_state=42)",None
+not_xanax101010,xanax101010,0.9793,0.9343,0.9562,0.4411,0.7243,0.5483,0.5,0.9433,0.9202,0.7102,0.9202,0.9202,0.8293,0.929,0.9202,0.7523,0.9202,"LinearSVC(max_iter=10000, random_state=42)",None
+9-Cortes,not_9-Cortes,0.6473,0.5823,0.6131,0.9695,0.9767,0.9731,0.5,0.9474,0.9497,0.8084,0.9497,0.9497,0.7795,0.9484,0.9497,0.7931,0.9497,SVC(random_state=42),None
+AgnaldoTeExplode,not_AgnaldoTeExplode,0.549,0.4786,0.5114,0.9644,0.9729,0.9687,0.5,0.9377,0.9411,0.7567,0.9411,0.9411,0.7258,0.9392,0.9411,0.74,0.9411,SVC(random_state=42),None
+BeatoSalut,not_BeatoSalut,0.4567,0.4735,0.4649,0.9618,0.9593,0.9606,0.5,0.9278,0.9265,0.7093,0.9265,0.9265,0.7164,0.9272,0.9265,0.7127,0.9265,SVC(random_state=42),None
+BluePirate89,not_BluePirate89,0.5254,0.6275,0.572,0.9725,0.9587,0.9655,0.5,0.9421,0.9362,0.7489,0.9362,0.9362,0.7931,0.9388,0.9362,0.7687,0.9362,SVC(random_state=42),None
+CariocaSatanico,not_CariocaSatanico,0.6809,0.7028,0.6917,0.9781,0.9758,0.9769,0.5,0.9577,0.9571,0.8295,0.9571,0.9571,0.8393,0.9574,0.9571,0.8343,0.9571,SVC(random_state=42),None
+Manada_2,not_Manada_2,0.8756,0.8107,0.8419,0.9865,0.9917,0.9891,0.5,0.9791,0.9796,0.931,0.9796,0.9796,0.9012,0.9793,0.9796,0.9155,0.9796,SVC(random_state=42),None
+MaxVonHabsburg,not_MaxVonHabsburg,0.7297,0.6722,0.6998,0.9769,0.9823,0.9796,0.5,0.9605,0.9618,0.8533,0.9618,0.9618,0.8273,0.961,0.9618,0.8397,0.9618,SVC(random_state=42),None
+MidnightRider00,not_MidnightRider00,0.4331,0.4824,0.4564,0.9606,0.9524,0.9565,0.5,0.9236,0.9194,0.6969,0.9194,0.9194,0.7174,0.9214,0.9194,0.7064,0.9194,SVC(random_state=42),None
+Miteiro,not_Miteiro,0.7069,0.5212,0.6,0.9674,0.985,0.9761,0.5,0.9504,0.9549,0.8371,0.9549,0.9549,0.7531,0.9517,0.9549,0.788,0.9549,SVC(random_state=42),None
+Supermunch2000,not_Supermunch2000,0.5098,0.5221,0.5159,0.9648,0.9631,0.9639,0.5,0.9336,0.9329,0.7373,0.9329,0.9329,0.7426,0.9332,0.9329,0.7399,0.9329,SVC(random_state=42),None
+TheGza1,not_TheGza1,0.6503,0.5129,0.5735,0.9673,0.9812,0.9742,0.5,0.947,0.9513,0.8088,0.9513,0.9513,0.7471,0.9486,0.9513,0.7738,0.9513,SVC(random_state=42),None
+logatwork,not_logatwork,0.4259,0.4667,0.4453,0.962,0.9555,0.9588,0.5,0.9266,0.9232,0.6939,0.9232,0.9232,0.7111,0.9249,0.9232,0.702,0.9232,SVC(random_state=42),None
+not_piperman_,piperman_,0.9612,0.9572,0.9592,0.384,0.4081,0.3957,0.5,0.9257,0.9235,0.6726,0.9235,0.9235,0.6826,0.9246,0.9235,0.6774,0.9235,SVC(random_state=42),None
+not_um--no,um--no,0.964,0.9566,0.9603,0.4655,0.5141,0.4885,0.5,0.9298,0.9263,0.7147,0.9263,0.9263,0.7353,0.928,0.9263,0.7244,0.9263,SVC(random_state=42),None
+not_xanax101010,xanax101010,0.9814,0.9643,0.9728,0.5993,0.7449,0.6642,0.5,0.9559,0.9497,0.7904,0.9497,0.9497,0.8546,0.9522,0.9497,0.8185,0.9497,SVC(random_state=42),None
+9-Cortes,not_9-Cortes,0.2757,0.2691,0.2724,0.9463,0.948,0.9472,0.6085,0.9004,0.9015,0.611,0.9015,0.9015,0.6085,0.901,0.9015,0.6098,0.9015,DecisionTreeClassifier(random_state=42),None
+AgnaldoTeExplode,not_AgnaldoTeExplode,0.1832,0.2137,0.1972,0.9453,0.9344,0.9398,0.574,0.8962,0.888,0.5642,0.888,0.888,0.5741,0.892,0.888,0.5685,0.888,DecisionTreeClassifier(random_state=42),None
+BeatoSalut,not_BeatoSalut,0.1847,0.1878,0.1862,0.9412,0.9401,0.9407,0.5639,0.8902,0.8894,0.563,0.8894,0.8894,0.5639,0.8898,0.8894,0.5635,0.8894,DecisionTreeClassifier(random_state=42),None
+BluePirate89,not_BluePirate89,0.244,0.2065,0.2237,0.9428,0.9534,0.948,0.5799,0.8953,0.9026,0.5934,0.9026,0.9026,0.5799,0.8988,0.9026,0.5859,0.9026,DecisionTreeClassifier(random_state=42),None
+CariocaSatanico,not_CariocaSatanico,0.316,0.3655,0.3389,0.9528,0.9418,0.9473,0.6536,0.9092,0.9023,0.6344,0.9023,0.9023,0.6536,0.9056,0.9023,0.6431,0.9023,DecisionTreeClassifier(random_state=42),None
+Manada_2,not_Manada_2,0.5085,0.4897,0.499,0.9635,0.9661,0.9648,0.7279,0.9331,0.9343,0.736,0.9343,0.9343,0.7279,0.9337,0.9343,0.7319,0.9343,DecisionTreeClassifier(random_state=42),None
+MaxVonHabsburg,not_MaxVonHabsburg,0.2946,0.2739,0.2839,0.9487,0.9534,0.9511,0.6137,0.9053,0.9084,0.6217,0.9084,0.9084,0.6137,0.9068,0.9084,0.6175,0.9084,DecisionTreeClassifier(random_state=42),None
+MidnightRider00,not_MidnightRider00,0.1603,0.149,0.1545,0.9361,0.9411,0.9386,0.5451,0.8817,0.8856,0.5482,0.8856,0.8856,0.5451,0.8836,0.8856,0.5465,0.8856,DecisionTreeClassifier(random_state=42),None
+Miteiro,not_Miteiro,0.2634,0.25,0.2565,0.9481,0.9515,0.9498,0.6007,0.9037,0.9059,0.6058,0.9059,0.9059,0.6007,0.9048,0.9059,0.6032,0.9059,DecisionTreeClassifier(random_state=42),None
+Supermunch2000,not_Supermunch2000,0.1926,0.2088,0.2004,0.9415,0.9356,0.9385,0.5723,0.8902,0.8858,0.567,0.8858,0.8858,0.5722,0.888,0.8858,0.5695,0.8858,DecisionTreeClassifier(random_state=42),None
+TheGza1,not_TheGza1,0.1808,0.2026,0.1911,0.9452,0.9374,0.9413,0.57,0.8964,0.8905,0.563,0.8905,0.8905,0.57,0.8934,0.8905,0.5662,0.8905,DecisionTreeClassifier(random_state=42),None
+logatwork,not_logatwork,0.1811,0.1917,0.1862,0.9426,0.9387,0.9407,0.5652,0.8923,0.8894,0.5619,0.8894,0.8894,0.5652,0.8909,0.8894,0.5635,0.8894,DecisionTreeClassifier(random_state=42),None
+not_piperman_,piperman_,0.9447,0.9358,0.9402,0.1412,0.1614,0.1506,0.5488,0.8954,0.8883,0.5429,0.8883,0.8883,0.5486,0.8918,0.8883,0.5454,0.8883,DecisionTreeClassifier(random_state=42),None
+not_um--no,um--no,0.9413,0.938,0.9396,0.1954,0.2048,0.2,0.5716,0.8902,0.8878,0.5684,0.8878,0.8878,0.5714,0.889,0.8878,0.5698,0.8878,DecisionTreeClassifier(random_state=42),None
+not_xanax101010,xanax101010,0.9481,0.9484,0.9483,0.2769,0.2757,0.2763,0.6121,0.9033,0.9034,0.6125,0.9034,0.9034,0.6121,0.9033,0.9034,0.6123,0.9034,DecisionTreeClassifier(random_state=42),None
+9-Cortes,not_9-Cortes,0.871,0.1084,0.1929,0.9384,0.9988,0.9677,0.861,0.9338,0.9378,0.9047,0.9378,0.9378,0.5536,0.9146,0.9378,0.5803,0.9378,RandomForestClassifier(random_state=42),None
+AgnaldoTeExplode,not_AgnaldoTeExplode,0.7,0.0299,0.0574,0.9374,0.9991,0.9673,0.8286,0.9221,0.9367,0.8187,0.9367,0.9367,0.5145,0.9087,0.9367,0.5123,0.9367,RandomForestClassifier(random_state=42),None
+BeatoSalut,not_BeatoSalut,0.8519,0.0939,0.1691,0.9385,0.9988,0.9677,0.7422,0.9326,0.9378,0.8952,0.9378,0.9378,0.5463,0.9139,0.9378,0.5684,0.9378,RandomForestClassifier(random_state=42),None
+BluePirate89,not_BluePirate89,0.6304,0.1174,0.198,0.9393,0.995,0.9663,0.8782,0.9183,0.9354,0.7848,0.9354,0.9354,0.5562,0.9141,0.9354,0.5821,0.9354,RandomForestClassifier(random_state=42),None
+CariocaSatanico,not_CariocaSatanico,0.9848,0.261,0.4127,0.9484,0.9997,0.9734,0.8802,0.9509,0.9491,0.9666,0.9491,0.9491,0.6304,0.935,0.9491,0.693,0.9491,RandomForestClassifier(random_state=42),None
+Manada_2,not_Manada_2,0.9216,0.3868,0.5449,0.9578,0.9976,0.9773,0.9575,0.9554,0.9568,0.9397,0.9568,0.9568,0.6922,0.9484,0.9568,0.7611,0.9568,RandomForestClassifier(random_state=42),None
+MaxVonHabsburg,not_MaxVonHabsburg,0.9455,0.2158,0.3514,0.9472,0.9991,0.9725,0.9019,0.9471,0.9472,0.9463,0.9472,0.9472,0.6074,0.9313,0.9472,0.6619,0.9472,RandomForestClassifier(random_state=42),None
+MidnightRider00,not_MidnightRider00,0.8,0.0314,0.0604,0.9319,0.9994,0.9645,0.7697,0.9226,0.9315,0.8659,0.9315,0.9315,0.5154,0.901,0.9315,0.5124,0.9315,RandomForestClassifier(random_state=42),None
+Miteiro,not_Miteiro,1.0,0.0763,0.1417,0.9397,1.0,0.9689,0.8829,0.9436,0.94,0.9699,0.94,0.94,0.5381,0.9152,0.94,0.5553,0.94,RandomForestClassifier(random_state=42),None
+Supermunch2000,not_Supermunch2000,0.7391,0.0683,0.125,0.9358,0.9982,0.966,0.8329,0.9223,0.9345,0.8375,0.9345,0.9345,0.5333,0.9084,0.9345,0.5455,0.9345,RandomForestClassifier(random_state=42),None
+TheGza1,not_TheGza1,1.0,0.0216,0.0422,0.9375,1.0,0.9677,0.8153,0.9415,0.9376,0.9687,0.9376,0.9376,0.5108,0.9087,0.9376,0.505,0.9376,RandomForestClassifier(random_state=42),None
+logatwork,not_logatwork,0.5769,0.125,0.2055,0.9414,0.9935,0.9668,0.8001,0.9173,0.9362,0.7592,0.9362,0.9362,0.5593,0.9165,0.9362,0.5861,0.9362,RandomForestClassifier(random_state=42),None
+not_piperman_,piperman_,0.9388,0.9985,0.9678,0.1667,0.0045,0.0087,0.8021,0.8915,0.9376,0.5527,0.9376,0.9376,0.5015,0.9089,0.9376,0.4882,0.9376,RandomForestClassifier(random_state=42),None
+not_um--no,um--no,0.9344,0.9968,0.9646,0.5217,0.0482,0.0882,0.8091,0.9061,0.9318,0.7281,0.9318,0.9318,0.5225,0.9045,0.9318,0.5264,0.9318,RandomForestClassifier(random_state=42),None
+not_xanax101010,xanax101010,0.9421,0.9971,0.9688,0.7778,0.144,0.2431,0.9129,0.9311,0.94,0.8599,0.94,0.94,0.5705,0.9203,0.94,0.6059,0.94,RandomForestClassifier(random_state=42),None
+9-Cortes,not_9-Cortes,0.2404,0.6546,0.3517,0.9709,0.8479,0.9052,0.8336,0.9209,0.8347,0.6057,0.8347,0.8347,0.7513,0.8673,0.8347,0.6285,0.8347,AdaBoostClassifier(random_state=42),None
+AgnaldoTeExplode,not_AgnaldoTeExplode,0.1815,0.6368,0.2825,0.9698,0.8024,0.8782,0.803,0.919,0.7917,0.5756,0.7917,0.7917,0.7196,0.8398,0.7917,0.5803,0.7917,AdaBoostClassifier(random_state=42),None
+BeatoSalut,not_BeatoSalut,0.1612,0.5592,0.2502,0.9612,0.7897,0.867,0.7583,0.9073,0.7741,0.5612,0.7741,0.7741,0.6744,0.8255,0.7741,0.5586,0.7741,AdaBoostClassifier(random_state=42),None
+BluePirate89,not_BluePirate89,0.2659,0.6761,0.3817,0.9734,0.8639,0.9154,0.8749,0.9253,0.8512,0.6197,0.8512,0.8512,0.77,0.8791,0.8512,0.6486,0.8512,AdaBoostClassifier(random_state=42),None
+CariocaSatanico,not_CariocaSatanico,0.2467,0.747,0.3709,0.9781,0.8323,0.8993,0.8661,0.928,0.8264,0.6124,0.8264,0.8264,0.7896,0.8631,0.8264,0.6351,0.8264,AdaBoostClassifier(random_state=42),None
+Manada_2,not_Manada_2,0.4238,0.7901,0.5517,0.984,0.9231,0.9525,0.9369,0.9465,0.9142,0.7039,0.9142,0.9142,0.8566,0.9257,0.9142,0.7521,0.9142,AdaBoostClassifier(random_state=42),None
+MaxVonHabsburg,not_MaxVonHabsburg,0.2947,0.7178,0.4179,0.9777,0.878,0.9252,0.8823,0.9324,0.8674,0.6362,0.8674,0.8674,0.7979,0.8915,0.8674,0.6715,0.8674,AdaBoostClassifier(random_state=42),None
+MidnightRider00,not_MidnightRider00,0.1531,0.5882,0.2429,0.9605,0.7544,0.8451,0.7288,0.9038,0.7428,0.5568,0.7428,0.7428,0.6713,0.8028,0.7428,0.544,0.7428,AdaBoostClassifier(random_state=42),None
+Miteiro,not_Miteiro,0.2784,0.6949,0.3976,0.9764,0.875,0.9229,0.8788,0.9311,0.8633,0.6274,0.8633,0.8633,0.7849,0.8888,0.8633,0.6602,0.8633,AdaBoostClassifier(random_state=42),None
+Supermunch2000,not_Supermunch2000,0.1844,0.5582,0.2772,0.9618,0.8184,0.8843,0.7921,0.9086,0.8006,0.5731,0.8006,0.8006,0.6883,0.8427,0.8006,0.5807,0.8006,AdaBoostClassifier(random_state=42),None
+TheGza1,not_TheGza1,0.1627,0.556,0.2517,0.9638,0.8049,0.8772,0.7684,0.9126,0.789,0.5632,0.789,0.789,0.6805,0.8373,0.789,0.5644,0.789,AdaBoostClassifier(random_state=42),None
+logatwork,not_logatwork,0.1685,0.5875,0.2618,0.9646,0.795,0.8716,0.761,0.9121,0.7813,0.5665,0.7813,0.7813,0.6912,0.8314,0.7813,0.5667,0.7813,AdaBoostClassifier(random_state=42),None
+not_piperman_,piperman_,0.9705,0.7608,0.853,0.15,0.6457,0.2434,0.7598,0.9201,0.7538,0.5602,0.7538,0.7538,0.7033,0.8156,0.7538,0.5482,0.7538,AdaBoostClassifier(random_state=42),None
+not_um--no,um--no,0.9646,0.8119,0.8817,0.1885,0.5944,0.2863,0.7799,0.9114,0.797,0.5765,0.797,0.797,0.7031,0.8409,0.797,0.584,0.797,AdaBoostClassifier(random_state=42),None
+not_xanax101010,xanax101010,0.9798,0.8886,0.932,0.3238,0.7449,0.4514,0.9049,0.936,0.879,0.6518,0.879,0.879,0.8167,0.8998,0.879,0.6917,0.879,AdaBoostClassifier(random_state=42),None
+9-Cortes,not_9-Cortes,0.3739,0.6667,0.4791,0.974,0.9179,0.9451,0.8816,0.9329,0.9007,0.6739,0.9007,0.9007,0.7923,0.9132,0.9007,0.7121,0.9007,GradientBoostingClassifier(random_state=42),None
+AgnaldoTeExplode,not_AgnaldoTeExplode,0.2557,0.6197,0.362,0.971,0.8759,0.921,0.8575,0.9249,0.8594,0.6134,0.8594,0.8594,0.7478,0.885,0.8594,0.6415,0.8594,GradientBoostingClassifier(random_state=42),None
+BeatoSalut,not_BeatoSalut,0.2314,0.4694,0.31,0.9586,0.8873,0.9216,0.7677,0.9096,0.8591,0.595,0.8591,0.8591,0.6784,0.8803,0.8591,0.6158,0.8591,GradientBoostingClassifier(random_state=42),None
+BluePirate89,not_BluePirate89,0.343,0.7166,0.464,0.9776,0.8999,0.9371,0.9085,0.9344,0.8875,0.6603,0.8875,0.8875,0.8083,0.905,0.8875,0.7006,0.8875,GradientBoostingClassifier(random_state=42),None
+CariocaSatanico,not_CariocaSatanico,0.3934,0.7189,0.5085,0.978,0.9185,0.9473,0.8897,0.9379,0.9048,0.6857,0.9048,0.9048,0.8187,0.9172,0.9048,0.7279,0.9048,GradientBoostingClassifier(random_state=42),None
+Manada_2,not_Manada_2,0.6269,0.8436,0.7193,0.9885,0.964,0.9761,0.9625,0.9643,0.956,0.8077,0.956,0.956,0.9038,0.959,0.956,0.8477,0.956,GradientBoostingClassifier(random_state=42),None
+MaxVonHabsburg,not_MaxVonHabsburg,0.3825,0.6888,0.4919,0.9766,0.921,0.948,0.9078,0.9372,0.9056,0.6795,0.9056,0.9056,0.8049,0.9177,0.9056,0.7199,0.9056,GradientBoostingClassifier(random_state=42),None
+MidnightRider00,not_MidnightRider00,0.2155,0.5137,0.3036,0.959,0.8589,0.9062,0.7867,0.9069,0.8347,0.5872,0.8347,0.8347,0.6863,0.8639,0.8347,0.6049,0.8347,GradientBoostingClassifier(random_state=42),None
+Miteiro,not_Miteiro,0.3979,0.6441,0.4919,0.9742,0.9323,0.9528,0.9071,0.9368,0.9136,0.686,0.9136,0.9136,0.7882,0.9229,0.9136,0.7224,0.9136,GradientBoostingClassifier(random_state=42),None
+Supermunch2000,not_Supermunch2000,0.2854,0.5341,0.372,0.9634,0.9017,0.9315,0.8355,0.917,0.8765,0.6244,0.8765,0.8765,0.7179,0.8932,0.8765,0.6518,0.8765,GradientBoostingClassifier(random_state=42),None
+TheGza1,not_TheGza1,0.2749,0.5819,0.3734,0.9691,0.8954,0.9308,0.8309,0.9248,0.8754,0.622,0.8754,0.8754,0.7386,0.8952,0.8754,0.6521,0.8754,GradientBoostingClassifier(random_state=42),None
+logatwork,not_logatwork,0.2411,0.5083,0.3271,0.9623,0.8869,0.9231,0.8119,0.9147,0.8619,0.6017,0.8619,0.8619,0.6976,0.8837,0.8619,0.6251,0.8619,GradientBoostingClassifier(random_state=42),None
+not_piperman_,piperman_,0.9683,0.8696,0.9163,0.2207,0.565,0.3174,0.8081,0.9225,0.8509,0.5945,0.8509,0.8509,0.7173,0.8796,0.8509,0.6168,0.8509,GradientBoostingClassifier(random_state=42),None
+not_um--no,um--no,0.9701,0.8727,0.9188,0.2683,0.6345,0.3771,0.835,0.922,0.8564,0.6192,0.8564,0.8564,0.7536,0.8817,0.8564,0.648,0.8564,GradientBoostingClassifier(random_state=42),None
+not_xanax101010,xanax101010,0.9796,0.9222,0.95,0.4027,0.7325,0.5197,0.9305,0.9411,0.9095,0.6912,0.9095,0.9095,0.8273,0.9213,0.9095,0.7349,0.9095,GradientBoostingClassifier(random_state=42),None
+9-Cortes,not_9-Cortes,0.3842,0.6265,0.4763,0.9712,0.9262,0.9481,0.8809,0.931,0.9056,0.6777,0.9056,0.9056,0.7763,0.9158,0.9056,0.7122,0.9056,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None
+AgnaldoTeExplode,not_AgnaldoTeExplode,0.2612,0.5983,0.3636,0.9697,0.8836,0.9246,0.8325,0.9241,0.8652,0.6154,0.8652,0.8652,0.7409,0.8885,0.8652,0.6441,0.8652,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None
+BeatoSalut,not_BeatoSalut,0.2337,0.5837,0.3337,0.9663,0.8617,0.911,0.7979,0.9169,0.8429,0.6,0.8429,0.8429,0.7227,0.8721,0.8429,0.6223,0.8429,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None
+BluePirate89,not_BluePirate89,0.39,0.7247,0.5071,0.9786,0.9174,0.947,0.9157,0.9386,0.9043,0.6843,0.9043,0.9043,0.821,0.9171,0.9043,0.727,0.9043,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None
+CariocaSatanico,not_CariocaSatanico,0.3959,0.7711,0.5232,0.9819,0.9135,0.9465,0.9017,0.9418,0.9037,0.6889,0.9037,0.9037,0.8423,0.9175,0.9037,0.7348,0.9037,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None
+Manada_2,not_Manada_2,0.7348,0.7984,0.7653,0.9855,0.9794,0.9824,0.9574,0.9687,0.9673,0.8602,0.9673,0.9673,0.8889,0.9679,0.9673,0.8738,0.9673,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None
+MaxVonHabsburg,not_MaxVonHabsburg,0.4562,0.7137,0.5566,0.9788,0.9396,0.9588,0.9283,0.9442,0.9246,0.7175,0.9246,0.9246,0.8266,0.9321,0.9246,0.7577,0.9246,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None
+MidnightRider00,not_MidnightRider00,0.214,0.5882,0.3138,0.9642,0.837,0.8961,0.8012,0.9116,0.8195,0.5891,0.8195,0.8195,0.7126,0.8553,0.8195,0.605,0.8195,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None
+Miteiro,not_Miteiro,0.3862,0.6398,0.4817,0.9738,0.9294,0.9511,0.8923,0.9356,0.9106,0.68,0.9106,0.9106,0.7846,0.9206,0.9106,0.7164,0.9106,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None
+Supermunch2000,not_Supermunch2000,0.2821,0.5904,0.3818,0.9672,0.8895,0.9268,0.8402,0.9203,0.8691,0.6247,0.8691,0.8691,0.74,0.8894,0.8691,0.6543,0.8691,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None
+TheGza1,not_TheGza1,0.2722,0.6466,0.3831,0.9734,0.8822,0.9255,0.8382,0.9287,0.8671,0.6228,0.8671,0.8671,0.7644,0.8909,0.8671,0.6543,0.8671,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None
+logatwork,not_logatwork,0.2385,0.6458,0.3483,0.9715,0.8542,0.9091,0.8489,0.9231,0.8404,0.605,0.8404,0.8404,0.75,0.8721,0.8404,0.6287,0.8404,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None
+not_piperman_,piperman_,0.9738,0.8502,0.9078,0.221,0.6502,0.3299,0.8315,0.9276,0.838,0.5974,0.838,0.838,0.7502,0.8724,0.838,0.6189,0.838,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None
+not_um--no,um--no,0.973,0.8633,0.9149,0.2662,0.6747,0.3818,0.8483,0.9246,0.8503,0.6196,0.8503,0.8503,0.769,0.8784,0.8503,0.6483,0.8503,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None
+not_xanax101010,xanax101010,0.9798,0.9449,0.962,0.4863,0.7284,0.5832,0.9336,0.9468,0.9304,0.733,0.9304,0.9304,0.8366,0.9367,0.9304,0.7726,0.9304,"StackingClassifier(estimators=[('svm',
+                                LinearSVC(max_iter=10000, random_state=42)),
+                               ('lr_l1',
+                                LogisticRegression(penalty='l1',
+                                                   random_state=42,
+                                                   solver='liblinear'),
+                                'rf',
+                                RandomForestClassifier(random_state=42))],
+                   final_estimator=LogisticRegression(random_state=42,
+                                                      solver='liblinear'))",None

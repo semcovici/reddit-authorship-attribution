@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+BluePirate89,Miteiro,0.786,0.6842,0.7316,0.709,0.8051,0.754,0.7484,0.7433,0.7475,0.7433,0.7433,0.7446,0.7425,0.7433,0.7428,0.8027,0.7433,Simple,embedding_layer

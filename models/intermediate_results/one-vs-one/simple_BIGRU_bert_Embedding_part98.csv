@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+BluePirate89,CariocaSatanico,0.9442,0.9595,0.9518,0.9592,0.9438,0.9514,0.9517,0.9516,0.9517,0.9516,0.9516,0.9516,0.9516,0.9516,0.9516,0.9826,0.9516,BIGRU,bert_Embedding

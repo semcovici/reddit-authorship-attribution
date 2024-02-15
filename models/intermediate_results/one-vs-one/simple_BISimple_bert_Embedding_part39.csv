@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+9-Cortes,logatwork,0.8482,0.8755,0.8617,0.8664,0.8375,0.8517,0.8571,0.8569,0.8573,0.8569,0.8569,0.8565,0.8568,0.8569,0.8567,0.932,0.8569,BISimple,bert_Embedding

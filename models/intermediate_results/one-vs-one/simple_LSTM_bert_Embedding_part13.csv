@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+um--no,xanax101010,0.93,0.9598,0.9447,0.9574,0.9259,0.9414,0.9435,0.9431,0.9437,0.9431,0.9431,0.9429,0.9431,0.9431,0.943,0.9859,0.9431,LSTM,bert_Embedding

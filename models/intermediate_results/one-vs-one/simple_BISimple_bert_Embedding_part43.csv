@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+CariocaSatanico,logatwork,0.828,0.8313,0.8297,0.8243,0.8208,0.8225,0.8262,0.8262,0.8261,0.8262,0.8262,0.8261,0.8262,0.8262,0.8261,0.9029,0.8262,BISimple,bert_Embedding

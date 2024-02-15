@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+BeatoSalut,not_BeatoSalut,0.3284,0.2694,0.296,0.9479,0.9602,0.954,0.9061,0.9136,0.6381,0.9136,0.9136,0.6148,0.9096,0.9136,0.625,0.7557,0.9136,BISimple,bert_Embedding

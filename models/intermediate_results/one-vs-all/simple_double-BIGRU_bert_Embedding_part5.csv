@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+Manada_2,not_Manada_2,0.7164,0.8107,0.7606,0.9863,0.977,0.9816,0.9683,0.9659,0.8513,0.9659,0.9659,0.8939,0.9669,0.9659,0.8711,0.9692,0.9659,double-BIGRU,bert_Embedding

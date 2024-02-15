@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+piperman_,um--no,0.7148,0.8655,0.783,0.8515,0.6908,0.7627,0.7869,0.7733,0.7831,0.7733,0.7733,0.7781,0.7723,0.7733,0.7729,0.8346,0.7733,BIGRU,embedding_layer

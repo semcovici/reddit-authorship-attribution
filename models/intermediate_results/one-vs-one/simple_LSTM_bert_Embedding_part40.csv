@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+AgnaldoTeExplode,logatwork,0.764,0.8718,0.8144,0.8551,0.7375,0.7919,0.8101,0.8038,0.8096,0.8038,0.8038,0.8046,0.803,0.8038,0.8032,0.882,0.8038,LSTM,bert_Embedding

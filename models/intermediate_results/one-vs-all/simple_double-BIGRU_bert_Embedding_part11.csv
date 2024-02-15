@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+logatwork,not_logatwork,0.3092,0.5333,0.3914,0.9652,0.9158,0.9398,0.9219,0.8905,0.6372,0.8905,0.8905,0.7245,0.9036,0.8905,0.6656,0.8434,0.8905,double-BIGRU,bert_Embedding

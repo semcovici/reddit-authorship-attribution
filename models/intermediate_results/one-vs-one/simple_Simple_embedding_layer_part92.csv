@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+BeatoSalut,Manada_2,0.7521,0.7306,0.7412,0.736,0.7572,0.7465,0.7441,0.7439,0.7441,0.7439,0.7439,0.7439,0.7438,0.7439,0.7438,0.8191,0.7439,Simple,embedding_layer

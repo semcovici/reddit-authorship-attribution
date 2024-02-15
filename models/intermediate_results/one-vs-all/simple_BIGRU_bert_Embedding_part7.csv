@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+MidnightRider00,not_MidnightRider00,0.3285,0.2667,0.2944,0.9454,0.9589,0.9521,0.9022,0.9103,0.637,0.9103,0.9103,0.6128,0.906,0.9103,0.6232,0.8058,0.9103,BIGRU,bert_Embedding

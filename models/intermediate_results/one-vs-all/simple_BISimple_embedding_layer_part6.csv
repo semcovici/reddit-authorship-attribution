@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+MaxVonHabsburg,not_MaxVonHabsburg,0.3079,0.5685,0.3994,0.9674,0.9093,0.9374,0.9237,0.8867,0.6376,0.8867,0.8867,0.7389,0.9018,0.8867,0.6684,0.8292,0.8867,BISimple,embedding_layer

@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+logatwork,piperman_,0.7377,0.75,0.7438,0.726,0.713,0.7195,0.7321,0.7322,0.7319,0.7322,0.7322,0.7315,0.7321,0.7322,0.7316,0.7902,0.7322,BISimple,bert_Embedding

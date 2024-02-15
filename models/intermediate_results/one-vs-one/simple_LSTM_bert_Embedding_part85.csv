@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+AgnaldoTeExplode,MaxVonHabsburg,0.8082,0.8462,0.8267,0.8435,0.805,0.8238,0.8261,0.8253,0.8258,0.8253,0.8253,0.8256,0.8252,0.8253,0.8253,0.9201,0.8253,LSTM,bert_Embedding

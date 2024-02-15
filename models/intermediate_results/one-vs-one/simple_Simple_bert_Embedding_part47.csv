@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+Miteiro,logatwork,0.8167,0.8686,0.8419,0.8622,0.8083,0.8344,0.8397,0.8382,0.8395,0.8382,0.8382,0.8385,0.8381,0.8382,0.8381,0.9238,0.8382,Simple,bert_Embedding

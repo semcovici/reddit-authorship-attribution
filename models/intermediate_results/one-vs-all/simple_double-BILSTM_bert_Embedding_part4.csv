@@ -1,0 +1,2 @@
+author1,author2,precision_author1,recall_author1,f1_score_author1,precision_author2,recall_author2,f1_score_author2,precision_weighted,precision_micro,precision_macro,recall_weighted,recall_micro,recall_macro,f1_weighted,f1_micro,f1_macro,auc_score,accuracy,rnn_layer,vectorizer
+CariocaSatanico,not_CariocaSatanico,0.4591,0.6988,0.5541,0.977,0.9395,0.9578,0.9415,0.923,0.718,0.923,0.923,0.8191,0.9302,0.923,0.756,0.9079,0.923,double-BILSTM,bert_Embedding
